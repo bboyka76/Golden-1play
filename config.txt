@@ -1,5 +1,5 @@
 token=NTM4MDI4MTk4NTI5ODU5NjA0.Dyt1Ug.0M9p_Icm-6Vqq4EwKNe0g1wFcrE
-owner=418483012427186195
+owner=408606676946780180
 prefix=!a
 game=Type !aplay
 stayinchannel=true
